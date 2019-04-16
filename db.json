@@ -1,124 +1,104 @@
 {
   "products":
-[{
+  [{
   "id": 1,
-  "nama": "Cookies - Amaretto",
-  "harga": "$2.93"
+  "nama": "Cod - Salted, Boneless",
+  "harga": "$3.41"
 }, {
   "id": 2,
-  "nama": "Ecolab - Ster Bac",
-  "harga": "$8.23"
+  "nama": "Gingerale - Schweppes, 355 Ml",
+  "harga": "$5.84"
 }, {
   "id": 3,
-  "nama": "Muffin Puck Ww Carrot",
-  "harga": "$7.83"
+  "nama": "Black Currants",
+  "harga": "$7.20"
 }, {
   "id": 4,
-  "nama": "Apple - Custard",
-  "harga": "$8.85"
+  "nama": "Tea - Herbal Sweet Dreams",
+  "harga": "$1.88"
 }, {
   "id": 5,
-  "nama": "Molasses - Fancy",
-  "harga": "$4.49"
+  "nama": "Fork - Plastic",
+  "harga": "$0.27"
 }, {
   "id": 6,
-  "nama": "Wine - Touraine Azay - Le - Rideau",
-  "harga": "$5.51"
+  "nama": "Ezy Change Mophandle",
+  "harga": "$8.88"
 }, {
   "id": 7,
-  "nama": "Appetizer - Spring Roll, Veg",
-  "harga": "$7.28"
+  "nama": "Oil - Pumpkinseed",
+  "harga": "$5.92"
 }, {
   "id": 8,
-  "nama": "Wine - Alicanca Vinho Verde",
-  "harga": "$4.18"
+  "nama": "Pork - Ham Hocks - Smoked",
+  "harga": "$0.77"
 }, {
   "id": 9,
-  "nama": "Bread - Pullman, Sliced",
-  "harga": "$8.25"
+  "nama": "Lamb - Sausage Casings",
+  "harga": "$6.33"
 }, {
   "id": 10,
-  "nama": "Sugar - Palm",
-  "harga": "$0.97"
+  "nama": "Chicken Breast Halal",
+  "harga": "$6.66"
 }, {
   "id": 11,
-  "nama": "Cookie Trail Mix",
-  "harga": "$7.26"
+  "nama": "Persimmons",
+  "harga": "$5.73"
 }, {
   "id": 12,
-  "nama": "Chilli Paste, Ginger Garlic",
-  "harga": "$0.34"
+  "nama": "Wiberg Cure",
+  "harga": "$2.06"
 }, {
   "id": 13,
-  "nama": "Lamb Rack Frenched Australian",
-  "harga": "$5.35"
+  "nama": "Pasta - Fett Alfredo, Single Serve",
+  "harga": "$5.60"
 }, {
   "id": 14,
-  "nama": "Soy Protein",
-  "harga": "$6.67"
+  "nama": "Bagel - Everything Presliced",
+  "harga": "$0.58"
 }, {
   "id": 15,
-  "nama": "Pastry - Lemon Danish - Mini",
-  "harga": "$5.71"
+  "nama": "Coffee - Egg Nog Capuccino",
+  "harga": "$4.27"
 }, {
   "id": 16,
-  "nama": "Spice - Pepper Portions",
-  "harga": "$5.74"
+  "nama": "Cherries - Frozen",
+  "harga": "$2.05"
 }, {
   "id": 17,
-  "nama": "Bacardi Limon",
-  "harga": "$7.06"
+  "nama": "Pie Pecan",
+  "harga": "$9.05"
 }, {
   "id": 18,
-  "nama": "Parsnip",
-  "harga": "$2.77"
+  "nama": "Dried Cranberries",
+  "harga": "$3.65"
 }, {
   "id": 19,
-  "nama": "Vinegar - Champagne",
-  "harga": "$4.13"
+  "nama": "Lid Coffeecup 12oz D9542b",
+  "harga": "$7.80"
 }, {
   "id": 20,
-  "nama": "Wine - Cava Aria Estate Brut",
-  "harga": "$2.23"
+  "nama": "Calvados - Boulard",
+  "harga": "$5.57"
 }, {
   "id": 21,
-  "nama": "Crab - Meat Combo",
-  "harga": "$4.69"
+  "nama": "Port - 74 Brights",
+  "harga": "$7.90"
 }, {
   "id": 22,
-  "nama": "Beer - Sleeman Fine Porter",
-  "harga": "$6.22"
+  "nama": "Beer - Upper Canada Lager",
+  "harga": "$9.67"
 }, {
   "id": 23,
-  "nama": "Beer - Moosehead",
-  "harga": "$1.73"
+  "nama": "Lemonade - Kiwi, 591 Ml",
+  "harga": "$7.62"
 }, {
   "id": 24,
-  "nama": "Bread - French Stick",
-  "harga": "$9.44"
+  "nama": "Orange Roughy 4/6 Oz",
+  "harga": "$0.37"
 }, {
   "id": 25,
-  "nama": "Longos - Penne With Pesto",
-  "harga": "$5.36"
-}, {
-  "id": 26,
-  "nama": "Wine - Peller Estates Late",
-  "harga": "$6.06"
-}, {
-  "id": 27,
-  "nama": "Muffin Mix - Corn Harvest",
-  "harga": "$1.08"
-}, {
-  "id": 28,
-  "nama": "Crawfish",
-  "harga": "$0.61"
-}, {
-  "id": 29,
-  "nama": "Lobster - Canned Premium",
-  "harga": "$2.42"
-}, {
-  "id": 30,
-  "nama": "Crackers - Melba Toast",
-  "harga": "$4.30"
+  "nama": "Jam - Blackberry, 20 Ml Jar",
+  "harga": "$5.85"
 }]
 }
